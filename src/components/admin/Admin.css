@@ -1,0 +1,66 @@
+#admin{
+
+  background: #fff6ed;
+  height: 100vh;
+}
+
+.section1{
+  padding-top: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.section1 .coffee2{
+  width: 300px;
+  height: 300px;
+  position: absolute;
+  top: 209px;
+  right: 106px;
+}
+.section1 .coffee1{
+  width: 80px;
+  height: 70px;
+  position: absolute;
+  bottom: 286px;
+  left: 470px;
+}
+.admin_text h3{
+  font-size: 100px;
+  font-weight: 100;
+}
+.admin_text h1{
+  position: absolute;
+  bottom: 310px;
+  right: 623px;
+font-size: 240px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+color: rgb(163, 126, 80);
+}  
+.section2 p{
+  font-size: 20px;
+  line-height: 2;
+  margin: 20px 0;
+}
+.section2 div span{
+  font-size: 35px;
+  color:rgb(163, 126, 80);
+  font-weight: 700;
+}
+.section2{
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  padding-right: 60px;
+}
+.section2 .cup_coffee{
+  width: 800px;
+  height: 800px;
+  padding-top: 90px;
+  z-index: 99; 
+}
+.block{
+  position: absolute;
+  top: 941px;
+  z-index: 1;
+  width: 1900px;
+}

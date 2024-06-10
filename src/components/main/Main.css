@@ -1,0 +1,97 @@
+#main{
+  background: #2F1E18;
+ height: 1200px;
+}
+.main-text p{
+color: #B29057;
+font-size: 34px;
+margin-bottom: 26px;
+
+}
+.main-text h1{
+  font-size: 100px;
+  color: antiquewhite;
+}
+.main-text {
+  margin-top: 300px;
+  margin-left: 500px;
+  position: absolute;
+  z-index: 99;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-direction: column;
+}
+.num1{
+  display: flex;
+  align-items: center;
+
+}
+.num1 h2{
+  font-size: 150px;
+  color: #B29057;
+  margin-right: 30px;
+}
+.num1 h3{
+  font-size: 33px;
+  color: antiquewhite;
+  margin-bottom: 20px;
+}
+.num1 h4{
+  font-size: 20px;
+  color: #CCB49B;
+}
+.productions{
+  position: absolute;
+  bottom: -1200px;
+  z-index: 99;
+}
+.products-top{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 150px;
+  padding-bottom: 70px;
+  margin-left: 450px;
+}
+.num3{
+  display: flex;
+  align-items: center;
+  margin-left: 450px;
+}
+
+.num3 h2{
+  font-size: 150px;
+  color: #B29057;
+  margin-right: 30px;
+}
+.num3 h3{
+  font-size: 33px;
+  color: antiquewhite;
+  margin-bottom: 20px;
+}
+.num3 h4{
+  font-size: 20px;
+  color: #CCB49B;
+}
+
+
+.num2{
+  display: flex;
+  align-items: center;
+
+}
+.num2 h2{
+  font-size: 150px;
+  color: #B29057;
+  margin-right: 30px;
+}
+.num2 h3{
+  font-size: 33px;
+  color: antiquewhite;
+  margin-bottom: 20px;
+}
+.num2 h4{
+  font-size: 20px;
+  color: #CCB49B;
+}

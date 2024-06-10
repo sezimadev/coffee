@@ -1,0 +1,19 @@
+.header{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding: 20px 200px;
+  background: #FFF6ED;
+  border-bottom: 2px solid black;
+}
+
+.header span{
+  font-size: 40px;
+}
+.header h1{
+  font-size: 30px;
+  font-weight: 500;
+}
+.header select{
+font-size: 25px;
+}
